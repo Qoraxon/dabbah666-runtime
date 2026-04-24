@@ -1,7 +1,7 @@
 # DABBAH 666
 
-**Admission Control Runtime**
-A metastructural epistemic judge of AI outputs.
+**Admission Control Runtime**  
+*A metastructural epistemic judge of AI outputs.*
 
 ---
 
@@ -35,7 +35,7 @@ Before passage, all emergence must resolve:
 * proof lineage
 * hierarchy integrity
 * constitutional eligibility
-* operative consequence
+* consequence class
 
 Unresolved state blocks passage.
 
