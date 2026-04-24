@@ -1,90 +1,85 @@
 # DABBAH 666
 
-Governed execution runtime for release, proof, review, and constitutional order under pressure.
+Metastructural epistemic runtime for judging whether emergence deserves standing.
 
-## Opening law
+## Jurisdiction
 
-DABBAH 666 is built on a simple law:
+What appears has no automatic right to stand.
 
-**generation is not release.**
+Production does not confer legitimacy. Repetition does not confer truth. Visibility does not confer standing. Outer success does not confer validity.
 
-A result does not gain standing merely because it was produced. It must pass through runtime judgment — route, truth, verdict, proof lineage, hierarchy integrity, and operational consequence — before release becomes lawful.
+A thing must first answer for itself before the order that precedes it.
 
-## What it is
+DABBAH 666 is built from that severity. Its concern is judgment. It examines whether what comes forward remains answerable to prior order, whether it bears continuity or counterfeit, whether it should pass, be held, be transformed, be rejected, or be exposed.
 
-DABBAH 666 is a governed execution runtime that keeps law inside live operation. Its center is controlled passage. Material is not merely processed; it is judged. The runtime determines whether it should be held, released, rejected, transformed, escalated, or challenged according to active runtime law.
+## Governing claim
 
-This project is built for environments where consequence matters and where a wrong release costs more than a fast answer is worth.
+DABBAH 666 judges assumption against fact.
 
-## Governing law
+Its work is not to decorate outputs with after-the-fact restraint. Its work is to determine whether what has appeared has earned admissibility at all.
 
-- Release is judged, not presumed.
-- Pressure is filtered before depth opens.
-- Proof lineage outranks surface appearance.
-- Governance remains active inside execution.
-- One lawful authority should govern each decision point.
-- Constitutional order must be measurable.
-- Runtime posture changes under risk.
-- Record and wake are organs of governance.
+That judgment is carried through explicit state:
+- route
+- truth
+- verdict
+- proof lineage
+- hierarchy integrity
+- constitutional eligibility
+- operative consequence
 
-## Why it exists
+## Why this exists
 
-Most systems treat output as the natural end of generation. DABBAH 666 treats output as a release event that must earn passage.
+A system worthy of consequence cannot treat every result as self-authorizing.
 
-The runtime exists to answer questions such as:
+Something may be fluent and still false.  
+Something may be coherent and still severed from its ground.  
+Something may be persuasive and still have no right to stand.
 
-- Should this result proceed?
-- Should it be held for review?
-- Should it be transformed before release?
-- Should it be rejected entirely?
-- Has proof been established?
-- Does runtime posture permit passage?
-- Does constitutional order allow it to stand?
+DABBAH 666 exists to make that distinction operative.
 
-## Runtime body
-
-The runtime is organized around living control organs rather than decorative safety language.
+## Operative body
 
 ### Front gate
-Absorbs pressure before deeper organs open. It evaluates repeat pressure, burst behavior, symbolic cost, cooldown state, and challenge conditions.
+The front gate receives pressure before depth opens. It judges force, repetition, burst, challenge conditions, and symbolic weight before deeper passage is permitted.
 
-### Runtime control layer
-Carries active mode, capability law, namespace, family, and epoch. Runtime state changes what is legally possible during execution.
+### Runtime law
+The runtime carries live legal posture. Modes, capability law, namespace, family, epoch, and control state determine what is presently lawful inside execution.
 
-### Governance belt
-Determines release posture. This is where material is routed into hold, release, reject, transform, challenge, or escalation paths.
+### Judgment belt
+This is where passage is decided. Material is routed into hold, release, reject, transform, challenge, or escalation according to governing law.
 
-### Sensor and wake network
-Tracks movement, failure, wake, rate, and operational strain. Record and wake belong to governance, not to logging afterthoughts.
+### Proof lineage
+Nothing stands by appearance alone. Source relation, trace, proof requirement, and proof validity bind a result to a lawful line of answerability.
 
-### Proof and lineage packet
-Binds source state, trace, proof requirement, proof validity, and lawful route lineage.
+### Constitutional judgment
+Normative pressure is not ornamental. The constitutional layer tests whether a route is admissible under bounded law, domain fit, danger exclusion, and operative eligibility.
 
-### Constitutional classifier
-Measures normative pressure, domain fit, danger exclusions, boundedness, and constitutional eligibility inside execution.
+### Sensor and wake
+Record, wake, transmission, strain, and failure belong to governance. A governed body must remain observable while it acts.
 
-## What makes it different
+## Metastructural law
 
-DABBAH 666 binds release judgment, pressure control, runtime mode, wake transport, proof lineage, hierarchy integrity, and constitutional classification into one governed execution body.
+The system is governed by a few hard laws:
 
-Its design target is lawful passage under pressure with structurally aligned organs.
+- Standing is earned.
+- Appearance must answer.
+- Pressure is judged before depth.
+- Proof outranks resemblance.
+- Law remains live inside execution.
+- One authority should rule each decision point.
+- Disorder in lineage is a governance event.
+- Constitutional judgment must be measurable.
 
-## Current state
-
-This public version is an early technical release that passes the current internal governance and constitutional evaluation harness while preserving runtime speed under that harness.
-
-Current evidence is strongest on internal structural coherence and controlled runtime behavior. The next stage is broader external challenge, independent testing, and harsher adversarial evaluation.
-
-## Repository structure
+## Repository body
 
 ```text
 dabbah666-runtime/
-├─ engine/
-├─ tests/
 ├─ docs/
+├─ engine/
 ├─ examples/
-├─ scripts/
-├─ README.md
-├─ LICENSE
+├─ tests/
+├─ .gitignore
 ├─ CONTRIBUTING.md
+├─ LICENSE
+├─ README.md
 └─ pyproject.toml
