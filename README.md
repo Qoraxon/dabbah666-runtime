@@ -1,76 +1,135 @@
 # DABBAH 666
 
-Metastructural epistemic runtime for judging whether emergence deserves standing.
+**Admission Control Runtime**
+A metastructural epistemic judge of AI outputs.
 
-## Jurisdiction
+---
 
-What appears has no automatic right to stand.
+## 1. Jurisdiction
 
-Production does not confer legitimacy. Repetition does not confer truth. Visibility does not confer standing. Outer success does not confer validity.
+No emergence has standing by default.  
+External signal does not confer legitimacy.
 
-A thing must first answer for itself before the order that precedes it.
+---
 
-DABBAH 666 is built from that severity. Its concern is judgment. It examines whether what comes forward remains answerable to prior order, whether it bears continuity or counterfeit, whether it should pass, be held, be transformed, be rejected, or be exposed.
+## 2. Scope
 
-## Governing claim
+Emergence is any incoming, generated, or transformed material.  
+All emergence is subject to judgment.
 
-DABBAH 666 judges assumption against fact.
+---
 
-Its work is not to decorate outputs with after-the-fact restraint. Its work is to determine whether what has appeared has earned admissibility at all.
+## 3. Gate Condition
 
-That judgment is carried through explicit state:
-- route
-- truth
-- verdict
-- proof lineage
-- hierarchy integrity
-- constitutional eligibility
-- operative consequence
+No emergence may produce effect before judgment.
 
-## Why this exists
+---
 
-A system worthy of consequence cannot treat every result as self-authorizing.
+## 4. Required State
 
-Something may be fluent and still false.  
-Something may be coherent and still severed from its ground.  
-Something may be persuasive and still have no right to stand.
+Before passage, all emergence must resolve:
 
-DABBAH 666 exists to make that distinction operative.
+* route
+* truth status
+* verdict
+* proof lineage
+* hierarchy integrity
+* constitutional eligibility
+* operative consequence
 
-## Operative body
+Unresolved state blocks passage.
 
-### Front gate
-The front gate receives pressure before depth opens. It judges force, repetition, burst, challenge conditions, and symbolic weight before deeper passage is permitted.
+---
 
-### Runtime law
-The runtime carries live legal posture. Modes, capability law, namespace, family, epoch, and control state determine what is presently lawful inside execution.
+## 5. Outcomes
 
-### Judgment belt
-This is where passage is decided. Material is routed into hold, release, reject, transform, challenge, or escalation according to governing law.
+Each emergence is assigned exactly one outcome:
 
-### Proof lineage
-Nothing stands by appearance alone. Source relation, trace, proof requirement, and proof validity bind a result to a lawful line of answerability.
+* admit
+* hold
+* reject
+* transform
+* challenge
+* escalate
 
-### Constitutional judgment
-Normative pressure is not ornamental. The constitutional layer tests whether a route is admissible under bounded law, domain fit, danger exclusion, and operative eligibility.
+Multiple outcomes are invalid.  
+Absent outcome is invalid.
 
-### Sensor and wake
-Record, wake, transmission, strain, and failure belong to governance. A governed body must remain observable while it acts.
+---
 
-## Metastructural law
+## 6. Execution Rules
 
-The system is governed by a few hard laws:
+* No bypass of judgment is permitted.
+* No partial state is permitted.
+* No effect precedes verdict.
+* No undefined authority may decide.
 
-- Standing is earned.
-- Appearance must answer.
-- Pressure is judged before depth.
-- Proof outranks resemblance.
-- Law remains live inside execution.
-- One authority should rule each decision point.
-- Disorder in lineage is a governance event.
-- Constitutional judgment must be measurable.
+---
 
-## Repository body
+## 7. Operative Structure
+
+### 7.1 Front Gate
+
+Evaluates pressure before depth access.  
+High-pressure or adversarial emergence is restricted.
+
+### 7.2 Runtime Law
+
+Execution is constrained by active law:
+mode, capability, namespace, lineage, epoch, control state.  
+Unlawful execution is blocked.
+
+### 7.3 Judgment Belt
+
+Routes emergence to one valid outcome.  
+Routing is total and exclusive.
+
+### 7.4 Proof Lineage
+
+Emergence must bind to traceable origin and valid proof.  
+Broken or absent lineage invalidates passage.
+
+### 7.5 Constitutional Layer
+
+Validates domain fit, safety constraints, and eligibility.  
+Violation blocks or escalates.
+
+### 7.6 Observability
+
+All state transitions and failures are recorded.  
+All actions are attributable.
+
+---
+
+## 8. Authority
+
+Each decision point has exactly one governing authority.  
+Conflicting authority invalidates the decision.
+
+---
+
+## 9. Failure Conditions
+
+The following invalidate emergence:
+
+* unresolved state
+* multiple outcomes
+* broken lineage
+* unlawful execution
+* failed constitutional validation
+* authority conflict
+
+Invalid emergence is blocked or rejected.
+
+---
+
+## 10. System Invariant
+
+No emergence acquires consequence without admissibility.
+
+---
+
+## 11. Repository Body
 
 ```text
 dabbah666-runtime/
