@@ -1,0 +1,23 @@
+# Verification Logs
+
+These logs show example input/output governance runs.
+
+They are not proof that the system is certified.
+
+Each run records:
+- input
+- domain
+- risk level
+- checks applied
+- release decision
+- output
+- reason
+- known limits
+
+Decision states:
+- allow
+- hold
+- reject
+- quarantine
+- rewrite
+- unknown
