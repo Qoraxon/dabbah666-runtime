@@ -299,25 +299,5 @@ This architecture expresses a governed runtime design and an operating law for b
 It is a technical runtime architecture for governed execution, proof-aware routing, and constitutional control.
 
 It should be read as a serious runtime system for structured release judgment and public technical evaluation.
-flowchart TD
-    A[Input] --> B[Ingress Layer]
 
-    B --> C[Claim Classification]
-    C --> D[Risk Assessment]
-
-    D --> E{High Risk?}
-
-    E -- No --> F[Evidence Check]
-    E -- Yes --> G[Review Gate]
-
-    F --> H{Supported?}
-    G --> H
-
-    H -- Yes --> I[Release Decision]
-    H -- No --> J[Hold / Reject / Unknown]
-
-    I --> K[Output]
-    J --> K
-
-    K --> L[Verification Log]
-    L --> M[Audit Record]
+<img width="965" height="2506" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/46e2fed4-ca18-473a-8a7b-b4429f66cc6a" />
