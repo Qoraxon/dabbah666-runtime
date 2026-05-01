@@ -142,3 +142,18 @@ dabbah666-runtime/
 ├─ LICENSE
 ├─ README.md
 └─ pyproject.toml
+## Verification & Reproducibility
+
+This project is currently a research prototype that is close to early-stage product
+
+Public verification materials:
+- Architecture overview
+- Example governance test cases
+- Input/output verification logs
+- Reproducible demo scripts
+- Known limitations
+
+Status:
+- Not certified
+- Not externally audited
+- Under active development
