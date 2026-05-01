@@ -1,0 +1,22 @@
+{
+  "run_id": "qrx-verify-0001",
+  "date": "2026-05-01",
+  "project_status": "research prototype",
+  "input": "Claim: The system should answer a math theorem as proven.",
+  "domain": "math",
+  "risk_level": "high",
+  "checks_applied": [
+    "claim classification",
+    "assumption check",
+    "proof requirement check",
+    "unsupported-certainty detection"
+  ],
+  "decision": "hold",
+  "output": "The claim is not released as proven. It is classified as unknown until a proof or external validation is provided.",
+  "reason": "The input requests certification without sufficient proof.",
+  "known_limits": [
+    "No external theorem prover used in this run",
+    "No peer review attached",
+    "Result is a governance decision, not mathematical validation"
+  ]
+}
