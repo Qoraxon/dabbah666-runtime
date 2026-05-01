@@ -301,3 +301,12 @@ It is a technical runtime architecture for governed execution, proof-aware routi
 It should be read as a serious runtime system for structured release judgment and public technical evaluation.
 
 <img width="965" height="2506" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/46e2fed4-ca18-473a-8a7b-b4429f66cc6a" />
+# Architecture Overview
+
+The system receives an input, classifies the type of claim, checks risk, evaluates support, and decides whether the output should be allowed, held, rejected, rewritten, quarantined, or marked unknown.
+
+The system does not treat fluent language as proof.
+
+High-risk material is routed through stricter gates before release.
+
+Every governed run should produce a verification log.
